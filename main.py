@@ -1,8 +1,8 @@
 
-def multiplay(a):
+def multiply(a):
     return a**2
 
 
 if __name__ == '__main__':
-    multiplay(10)
+    multiply(10)
     
